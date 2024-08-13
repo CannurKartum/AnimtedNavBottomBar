@@ -1,7 +1,14 @@
 Animated Bottom Bar Navigation. 
 
 Here you can see the demonstration -> 
-[App Content](https://github.com/user-attachments/assets/9bb253d7-faf3-4b0c-bb57-4b93e6f03ce2)
+
+
+
+
+https://github.com/user-attachments/assets/6b352276-2ed5-4530-961c-6a00e5a846e7
+
+
+
 
 If you want to create the same nav bar you should implement -> 
 
